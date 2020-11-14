@@ -3,4 +3,4 @@
   
   including:
   
-  •
+  • Supermarket product analysis
