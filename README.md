@@ -4,6 +4,9 @@
   including:
   
   • Supermarket product analysis
+  
     • Analysis report
+    
     • Tableau workbook
+    
     • Analysis graphs
