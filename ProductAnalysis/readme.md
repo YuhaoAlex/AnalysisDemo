@@ -52,7 +52,7 @@ From the figure, we can see that sales are affected by the season to a certain e
 According to the visual chart, we can see that users place orders mainly from Tuesday to Saturday, and the number of orders placed on Monday is less. Based on this conclusion, we can place advertisements and hold promotional activities according to the time period.
 
 ## 4.6 Analysis of the negtive profit of table
-![image](ivehttps://github.com/YuhaoAlex/AnalysisDemo/blob/main/ProductAnalysis/Graphs/tableNegt.png)
+![image](https://github.com/YuhaoAlex/AnalysisDemo/blob/main/ProductAnalysis/Graphs/tableNegtive.png)
 It can be inferred that the profit of the table is negative, but the sales are positive, and it is in the middle of the overall sales ranking. It can be inferred that the sales are not small, but the profit is negative, indicating that it is sold at a price lower than cost. Table. At this time, we analyzed the discount rate of each product as a percentage of the whole, and we surprisingly found that the table is the largest discount rate in the entire product, and we all know that the greater the discount, the lower the profit. Therefore, integrating this data visualization and analysis, we can know that the product cannot be profitable because the discount rate of the table is too high. In response to this situation, the supermarket marketing decision makers must appropriately adjust the discount rate of the table, and not let the product at a loss.
 
 ## 5 Dashboarding
